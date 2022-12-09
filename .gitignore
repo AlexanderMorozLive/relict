@@ -1,0 +1,5 @@
+phpmailer/
+node_modules/
+dist/
+**/*.zip
+**/*.rar
